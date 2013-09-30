@@ -1,4 +1,4 @@
-{:	data{I"/:ET{:default{	:	lastI"<!DOCTYPE HTML>
+{:	data{I"/:ET{:default{	:	lastI"3<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -20,6 +20,8 @@
 </ul>
 
 <p>If you need any help with customizing your nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>
+
+<p> Ok, 1st time editing this page.  </p>
     </div>
     <div id="sidebar">
       <h2>Documentation</h2>
@@ -36,7 +38,7 @@
     </div>
   </body>
 </html>
-;T:rawI"�<h1>A Brand New nanoc Site</h1>
+;T:rawI"�<h1>A Brand New nanoc Site</h1>
 
 <p>You’ve just created a new nanoc site. The page you are looking at right now is the home page for your site. To get started, consider replacing this default homepage with your own customized homepage. Some pointers on how to do so:</p>
 
@@ -45,7 +47,9 @@
   <li><p><strong>Change the layout</strong>, which is the “default.html” file in the “layouts” directory, and create something unique (and hopefully less bland).</p></li>
 </ul>
 
-<p>If you need any help with customizing your nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>;T:preI"�<h1>A Brand New nanoc Site</h1>
+<p>If you need any help with customizing your nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>
+
+<p> Ok, 1st time editing this page.  </p>;T:preI"�<h1>A Brand New nanoc Site</h1>
 
 <p>You’ve just created a new nanoc site. The page you are looking at right now is the home page for your site. To get started, consider replacing this default homepage with your own customized homepage. Some pointers on how to do so:</p>
 
@@ -54,7 +58,9 @@
   <li><p><strong>Change the layout</strong>, which is the “default.html” file in the “layouts” directory, and create something unique (and hopefully less bland).</p></li>
 </ul>
 
-<p>If you need any help with customizing your nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>;T:	post@
+<p>If you need any help with customizing your nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>
+
+<p> Ok, 1st time editing this page.  </p>;T:	post@
 I"/stylesheet/;T{;{;I"* {
   margin: 0;
   padding: 0;
